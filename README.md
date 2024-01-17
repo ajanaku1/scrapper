@@ -20,5 +20,5 @@ This is an open-source web scraper for Amazon that extracts information about it
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/amazon-web-scraper.git
+   git clone https://github.com/ajanaku1/scraper.git
    ```
